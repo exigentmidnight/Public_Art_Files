@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12in"
+   height="12in"
+   viewBox="0 0 304.8 304.80001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="Cut Pattern - Paint Tray V2 - 1 of 2.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect952"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="2,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect948"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="1,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect944"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="2,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect1136"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="3,0.14207048"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect1132"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="0,0.1322915"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7020608"
+     inkscape:cx="245.10708"
+     inkscape:cy="567.7226"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1760"
+     inkscape:window-height="1027"
+     inkscape:window-x="9"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1574-7-2-0"
+       style="fill:none;stroke:#010000;stroke-width:1.23078;stroke-linecap:square"
+       d="M 151.34239,5.4606486 V 18.266729 h 9.61802 v 3.14573 h -9.61802 V 270.17265 h 9.61802 v 3.14573 h -9.61802 v 12.82328 h 18.77457 V 5.4606486 Z" />
+    <path
+       style="fill:none;stroke:#010000;stroke-width:1.03698;stroke-linecap:square"
+       d="M 32.406071,15.475116 58.789297,41.858342 56.624478,44.023161 30.241252,17.639935 Z"
+       id="path1524" />
+    <path
+       style="fill:none;stroke:#010000;stroke-width:1.03698;stroke-linecap:square"
+       d="M 32.406042,83.766466 58.789265,110.14964 56.624447,112.31446 30.241224,85.931285 Z"
+       id="path2217" />
+    <path
+       style="fill:none;stroke:#010000;stroke-width:1.03698;stroke-linecap:square"
+       d="m 32.406036,152.05774 26.383222,26.38322 -2.16482,2.16482 -26.383221,-26.38322 z"
+       id="path2223" />
+    <path
+       style="fill:none;stroke:#010000;stroke-width:1.03698;stroke-linecap:square"
+       d="m 32.406052,220.87823 26.383222,26.38322 -2.164822,2.16482 -26.383221,-26.38322 z"
+       id="path2229" />
+    <path
+       id="rect1518"
+       style="fill:none;stroke:#010000;stroke-width:3.6422;stroke-linecap:square"
+       d="M 12.355469 20.638672 L 12.355469 39.537109 L 48.707031 39.537109 L 48.707031 51.322266 L 12.355469 51.322266 L 12.355469 1113.0605 L 30.958984 1113.0605 L 30.958984 1076.709 L 42.742188 1076.709 L 42.742188 1113.0605 L 242.60156 1113.0605 L 242.60156 1076.709 L 254.38477 1076.709 L 254.38477 1113.0605 L 273.28125 1113.0605 L 273.28125 20.638672 L 12.355469 20.638672 z "
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:none;stroke:#010000;stroke-width:1.03698;stroke-linecap:square"
+       d="m 106.44287,15.475116 26.38323,26.383226 -2.16482,2.164819 -26.38323,-26.383226 z"
+       id="path1524-6" />
+    <path
+       style="fill:none;stroke:#010000;stroke-width:1.03698;stroke-linecap:square"
+       d="m 106.44284,83.766466 26.38323,26.383174 -2.16482,2.16482 -26.38323,-26.383175 z"
+       id="path2217-6" />
+    <path
+       style="fill:none;stroke:#010000;stroke-width:1.03698;stroke-linecap:square"
+       d="m 106.44284,152.05774 26.38322,26.38322 -2.16482,2.16482 -26.38323,-26.38322 z"
+       id="path2223-6" />
+    <path
+       style="fill:none;stroke:#010000;stroke-width:1.03698;stroke-linecap:square"
+       d="m 106.44285,220.87823 26.38323,26.38322 -2.16483,2.16482 -26.38322,-26.38322 z"
+       id="path2229-6" />
+    <path
+       id="rect1518-7"
+       style="fill:none;stroke:#010000;stroke-width:0.963665;stroke-linecap:square"
+       d="M 77.305833,5.4606486 V 10.46086 h 9.618017 v 3.118156 H 77.305833 V 294.49725 h 4.92218 v -9.618 h 3.117639 v 9.618 h 52.879478 v -9.618 h 3.11764 v 9.618 h 4.9997 V 5.4606486 Z" />
+  </g>
+</svg>
